@@ -1,3 +1,9 @@
 __pycache__/
+<<<<<<< HEAD
 *.spec
 .env
+=======
+build/
+*.spec
+.env
+>>>>>>> f85c37f80893f6ec1ddab2e412b646c0cefa16c0
