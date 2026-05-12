@@ -62,7 +62,7 @@ BORDER     = "#3a3a3a"
 class LinkedInScraperApp(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("LinkedIn Job Scraper")
+        self.title("JobSnipe")
         self.geometry("1200x900")
         self.minsize(1000, 800)
         self.configure(fg_color=BG_MAIN)
